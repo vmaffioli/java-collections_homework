@@ -5,13 +5,13 @@ Contents from Digital Innovation One
 
 ### Exercises
 
-#### #1 
+#### #1 LISTS
   Make an app that receives the average temperature from first six months of year and save then in a list. After that, calculate the semester average temperature and show all values above the average temperature. (Write the month name)
   <br/>
   <br/>
 
 
-#### #2 
+#### #2 LISTS
   Using lists, make an app that ask 5 questions to user about a crime.
   The questions are:
   - "Telefononou para a vitima?"
